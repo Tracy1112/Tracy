@@ -3,38 +3,44 @@ import React from 'react'
 const Experience = () => {
   const workExperience = [
     {
-      title: 'Scientific Programmer & Data Analyst',
-      company:
-        'International Institute for Biomedical Research, Shenzhen, China.',
-      dates: 'Aug 2020 - Jun 2021 ',
+      title: 'Front-End Developer',
+      company: 'TK Digital Solutions (Freelance), Australia',
+      dates: 'Apr 2024 - May 2025',
       duties: [
-        'Built Python scripts to automate 3D microscopy data processing.',
-        'Streamlined structural modelling workflows and authored SOPs.',
-        'Collaborated with cross-functional teams to support protocol validation.',
+        'Built headless eCommerce website with RESTful APIs.',
+        'Developed property rental platform with Next.js.',
+        'Delivered fully responsive, cross-browser UI using Tailwind CSS.',
+        'Implemented unit test with Jest to ensure React component reliability.',
       ],
-      technologies: ['Python', 'Linux', 'Bash', 'Git', 'COOT', 'PHENIX'],
+      technologies: [
+        'React.js',
+        'TypeScript',
+        'Next.js',
+        'RESTful APIs',
+        'CI/CD',
+      ],
     },
     {
-      title: 'Technical Project Coordinator',
-      company: 'Janich Medical Technology Co., LTD, Hangzhou, China',
-      dates: 'Dec 2017 - Jul 2018',
+      title: 'Software Developer',
+      company: 'International Institute for Biomedical Research, China',
+      dates: 'Aug 2020 - Apr 2022 ',
       duties: [
-        'Led communication across teams to align product and digital goals.',
-        'Managed client updates, technical support, and product rollouts.',
-        'Improved sales by 20% through process automation.',
+        'Built SPA using React, styled with Tailwind CSS for cross-browser UI.',
+        'Developed backend server with Node.js and Express.',
+        'Designed RESTful APIs supporting full CRUD operations on research data.',
       ],
-      technologies: ['PowerPoint', 'Excel', 'Agile tools'],
+      technologies: ['React.js', 'Node.js', 'Express', 'MongoDB Atlas'],
     },
     {
       title: 'Data Engineer - Manufacturing Analytics',
-      company: 'Ruiyi Biotechnology Co., LTD, Shanghai, China',
-      dates: 'Jul 2016 - Dec 2017',
+      company: 'Ruiyi Biotechnology Co., LTD, China',
+      dates: 'Dec 2017 - Jul 2018',
       duties: [
-        'Created PowerBI dashboards and Excel macros for real-time manufacturing insights.',
-        'Automated data cleaning and reporting workflows with custom scripts.',
-        'Delivered technical presentations to enhance data-driven decisions.',
+        'Extracted and transformed manufacturing data using Python and pandas.',
+        'Created PowerBI dashboards for real-time KPI monitoring.',
+        'Implemented Python automation scripts to streamline daily data processing.',
       ],
-      technologies: ['PowerBI', 'Excel', 'Python'],
+      technologies: ['Python', 'Pandas', 'PowerBI', 'MySQL', 'Excel'],
     },
   ]
 

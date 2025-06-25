@@ -17,14 +17,14 @@ const Hero = () => {
             </h2>
           </div>
           <p className="mb-10 text-base sm:text-lg md:text-xl font-medium leading-6 text-center lg:text-left max-w-[90%] lg:max-w-md text-white/70 font-sans tracking-wide">
-            Software and App Developer with strong teamwork and communication
-            skills. Passionate about coding, innovation, and continuous learning
-            through online courses and certifications in software development
-            and emerging technologies.
+            Detail-oriented and fast-learning Software Developer with 2 years of
+            experience building headless, API-driven full-Stack Web platforms.
+            Passionate about clean code, eager to contribute to team success,
+            and continuously learning emerging technologies and best practices.
           </p>
           <div className="flex items-center justify-between">
             <Link
-              to="https://drive.google.com/file/d/1sLTGLZo6fI5XD2wa2GWh6yWoVs3fCSw9/view"
+              to="https://drive.google.com/file/d/1cmXIoTce0r00wyfUVKtdU2lMVvtuvneQ/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
