@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
           <div className="flex items-center justify-between">
             <Link
-              to="https://drive.google.com/file/d/1cmXIoTce0r00wyfUVKtdU2lMVvtuvneQ/view?usp=sharing"
+              to="https://drive.google.com/file/d/1gWP_AA8kerPSWOMnSLQrPMmYSgtRwWVF/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
