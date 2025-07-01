@@ -17,10 +17,12 @@ const Hero = () => {
             </h2>
           </div>
           <p className="mb-10 text-base sm:text-lg md:text-xl font-medium leading-6 text-center lg:text-left max-w-[90%] lg:max-w-md text-white/70 font-sans tracking-wide">
-            Detail-oriented and fast-learning Software Developer with 2 years of
-            experience building headless, API-driven full-Stack Web platforms.
-            Passionate about clean code, eager to contribute to team success,
-            and continuously learning emerging technologies and best practices.
+            Innovative Web Developer with 2 years of experience building
+            API-driven full-stack web platforms. Proven experience in improving
+            CI/CD pipelines, Cloud deployments, data pipelines, and dashboard
+            development. Strong team collaborator in agile environments,
+            delivering high-quality projects aligned with industry best
+            practices.
           </p>
           <div className="flex items-center justify-between">
             <Link
