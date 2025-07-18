@@ -17,7 +17,7 @@ const Hero = () => {
             </h2>
           </div>
           <p className="mb-10 text-base sm:text-lg md:text-xl font-medium leading-6 text-center lg:text-left max-w-[90%] lg:max-w-md text-white/70 font-sans tracking-wide">
-            Innovative Web Developer with 3+ years of experience building
+            Innovative Web Developer with 2+ years of experience building
             API-driven full-stack web platforms. Proven experience in improving
             CI/CD pipelines, AWS Cloud deployments, data pipelines, and dashboard
             development. Strong team collaborator in Agile environments,

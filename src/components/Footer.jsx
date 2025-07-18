@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   const statistics = [
-    { number: '3+', text: 'Years of coding experience' },
+    { number: '2+', text: 'Years of coding experience' },
     { number: '5+', text: 'Projects completed' },
     { number: '10+', text: 'Technologies explored' },
     { number: '200+', text: 'Git commits' },
