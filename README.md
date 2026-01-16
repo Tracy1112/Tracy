@@ -2,6 +2,10 @@
 
 A modern, professional portfolio website showcasing software development projects and experience.
 
+## 🌐 Live Demo
+
+**[View Live Portfolio →](https://tracy-portfolio-nine.vercel.app/)**
+
 ## 🚀 Features
 
 - **TypeScript** - Full type safety throughout the application
