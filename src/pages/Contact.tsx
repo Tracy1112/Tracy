@@ -1,14 +1,13 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { FaLinkedin, FaGithub, FaRegCopy } from 'react-icons/fa'
 import { EXTERNAL_LINKS, CONTACT_INFO } from '../constants'
+import { useCopyToClipboard } from '../hooks'
 
 const Contact: React.FC = () => {
-  const [copied, setCopied] = useState(false)
+  const { copied, copyToClipboard } = useCopyToClipboard()
 
   const copyEmail = () => {
-    navigator.clipboard.writeText(CONTACT_INFO.EMAIL)
-    setCopied(true)
-    setTimeout(() => setCopied(false), 2000)
+    copyToClipboard(CONTACT_INFO.EMAIL)
   }
 
   return (
